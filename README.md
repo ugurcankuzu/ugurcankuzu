@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bozukformat" target="blank"><img src="https://img.shields.io/twitter/follow/bozukformat?logo=twitter&style=for-the-badge" alt="bozukformat" /></a> </p>
 
-- 🔭 I’m currently working on [BookShop](https://github.com/ugurcankuzu/bookshop)
+- 🔭 I’m currently working on Private Repo.
 
 - 💬 Ask me about **React.js, Next.js**
 
